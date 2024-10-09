@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-08T12:59:17 IST" name="Suite" finished-at="2024-10-08T12:59:56 IST" duration-ms="38884">
+    <groups>
+    </groups>
+    <test started-at="2024-10-08T12:59:17 IST" name="Test" finished-at="2024-10-08T12:59:56 IST" duration-ms="38884">
+      <class name="testcase.RegisterTC1">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcase.RegisterTC1@5ce33a58]" started-at="2024-10-08T12:59:17 IST" name="setUp" finished-at="2024-10-08T12:59:55 IST" duration-ms="37300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="refistrationMethod()[pri:0, instance:testcase.RegisterTC1@5ce33a58]" started-at="2024-10-08T12:59:55 IST" name="refistrationMethod" finished-at="2024-10-08T12:59:56 IST" duration-ms="733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refistrationMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcase.RegisterTC1@5ce33a58]" started-at="2024-10-08T12:59:56 IST" name="tearDown" finished-at="2024-10-08T12:59:56 IST" duration-ms="633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.RegisterTC1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
